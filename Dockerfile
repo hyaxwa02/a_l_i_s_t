@@ -1,5 +1,5 @@
-FROM xhofe/alist:latest
-LABEL MAINTAINER="i@nn.ci"
+FROM haoyu233/lista:latest
+
 WORKDIR /opt/alist/
 
 EXPOSE 5244
